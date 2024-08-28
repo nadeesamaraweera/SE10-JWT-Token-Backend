@@ -23,7 +23,7 @@ public class User {
     private String email;
     private String password;
     private String name;
-    private String CompanyName;
+    private String companyName;
     private String role;
 
 }
